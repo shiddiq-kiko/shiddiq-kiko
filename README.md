@@ -4,7 +4,7 @@
 
 I'm **Muhammad Ash Shiddieqy Kartiko**, but you can call me **Kiko**. I'm a passionate Software Engineer with a unique background, transitioning from **Mechanical Engineering** to the world of software development.
 
-- 🔭 I’m currently working as a **Backend Engineer** at **SALT Indonesia**, contributing to major telecommunication projects.
+- 🔭 I’m currently working as a **Backend Engineer** at **SALT Indonesia**, contributing to major telecommunication and financial projects.
 - 🌱 I’m always learning and exploring new technologies, from **Golang** and **Java** to **AI Prompting** and **Vibe Coding**.
 <!-- - 💬 Ask me about **SDLC**, **Technical Architecture**, or how I built a reminder app in **COBOL**. -->
 - ⚡ Fun fact: I believe in the power of **Innovation** and **Continuous Improvement**.
